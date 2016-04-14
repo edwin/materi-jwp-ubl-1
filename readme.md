@@ -12,5 +12,5 @@ Bahan
 * JSP
 * Servlet
 * Servlet Filter
-* SavaScript
+* JavaScript
 * JQuery
